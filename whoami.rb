@@ -1,4 +1,4 @@
-class Recon < Formula
+class Whoami < Formula
       desc "The `whoami` CLI is a small Rust application that allows users to identify their current AWS identity."
       homepage "https://github.com/aws-cli-tools"
       url "__URL__"
